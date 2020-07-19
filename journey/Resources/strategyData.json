@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Widespread Mask Use",
+        "category": "Outbreak Management",
+        "city": "N/a",
+        "state": "N/a",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Citizens",
+        "coordinates": {
+            "longitude": 4.469528,
+            "latitude": 51.911568
+        },
+        "imageName": "dna0",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 0.1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Stimulus Package",
+        "category": "Impact Management",
+        "city": "The Hague",
+        "state": "Zuid-Holland",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Government",
+        "coordinates": {
+            "longitude": 4.380085,
+            "latitude": 51.990414
+        },
+        "imageName": "dna1",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Lowered Immunity",
+        "category": "Scientific Insight",
+        "city": "Rotterdam",
+        "state": "Zuid-Holland",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Academia",
+        "coordinates": {
+            "longitude": 4.478482,
+            "latitude": 52.166183
+        },
+        "imageName": "dna2",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 0.1
+    },
+    {
+        "name": "Covering 80% Payroll",
+        "category": "Impact Management",
+        "city": "The Hague",
+        "state": "Zuid-Holland",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Government",
+        "coordinates": {
+             "longitude": 4.469528,
+             "latitude": 51.911568
+        },
+        "imageName": "dna3",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Make Cuts to Pay Employees",
+        "category": "Impact Management",
+        "city": "Rotterdam",
+        "state": "Zuid-Holland",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Industry",
+        "coordinates": {
+            "longitude": 4.469528,
+            "latitude": 51.911568
+        },
+        "imageName": "dna0",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Acellerated Vaccine Development",
+        "category": "Scientific Insight",
+        "city": "Leiden",
+        "state": "Zuid-Holland",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Academia",
+        "coordinates": {
+            "longitude": 4.380085,
+            "latitude": 51.990414
+        },
+        "imageName": "dna1",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1.5
+    },
+    {
+        "name": "Prohibit Gatherings over 100",
+        "category": "Outbreak Management",
+        "city": "The Hague",
+        "state": "Zuid-Holland",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Government",
+        "coordinates": {
+            "longitude": 4.478482,
+            "latitude": 52.166183
+        },
+        "imageName": "dna2",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1.5,
+            "dist": 0.5
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Extra Wave",
+        "category": "Scientific Insight",
+        "city": "Delft",
+        "state": "Zuid-Holland",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Academia",
+        "coordinates": {
+            "longitude": 4.478482,
+            "latitude": 52.166183
+        },
+        "imageName": "dna3",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1.2,
+            "dist": 1.3
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Increase Space in Homeless Shelters",
+        "category": "Outbreak Management",
+        "city": "Leiden",
+        "state": "Zuid-Holland",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Industry",
+        "coordinates": {
+            "longitude": 4.469528,
+            "latitude": 51.911568
+        },
+        "imageName": "dna0",
+        "thresMul": {
+            "upper": 1,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Very Late Social Distancing",
+        "category": "Impact Management",
+        "city": "The Hague",
+        "state": "Zuid-Holland",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Government",
+        "coordinates": {
+             "longitude": 4.380085,
+           "latitude": 51.990414
+        },
+        "imageName": "dna1",
+        "thresMul": {
+            "upper": 2,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "No Social Distancing",
+        "category": "Outbreak Management",
+        "city": "N/a",
+        "state": "N/a",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Government",
+        "coordinates": {
+            "longitude": 4.478482,
+            "latitude": 52.166183
+        },
+        "imageName": "dna2",
+        "thresMul": {
+            "upper": 10,
+            "lower": 1
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    },
+    {
+        "name": "Early Social Distancing Stop",
+        "category": "Outbreak Management",
+        "city": "N/a",
+        "state": "N/a",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "owner": "Citizens",
+        "coordinates": {
+            "longitude": 4.469528,
+            "latitude": 51.911568
+        },
+        "imageName": "dna3",
+        "thresMul": {
+            "upper": 1,
+            "lower": 2
+        },
+        "sigmaMul": 1,
+        "muMul": 1,
+        "betaMul": {
+            "noDist": 1,
+            "dist": 1
+        },
+        "gammaMul": 1
+    }
+]

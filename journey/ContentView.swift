@@ -13,30 +13,47 @@ struct ContentView: View {
  
     var body: some View {
         TabView(selection: $selection){
-            Text("First View")
-                .font(.title)
+            WelcomeView()
                 .tabItem {
                     VStack {
-                        Image("first")
-                        Text("First")
+                        Image(systemName: "info.circle")
+                        Text("Begin")
                     }
                 }
                 .tag(0)
-            Text("Second View")
-                .font(.title)
+            CurveGame()
                 .tabItem {
                     VStack {
-                        Image("second")
-                        Text("Second")
+                        Image(systemName: "gamecontroller")
+                        Text("Play")
                     }
                 }
                 .tag(1)
+            Text("Third View")
+                .font(.title)
+                .tabItem {
+                    VStack {
+                        Image(systemName: "lightbulb")
+                        Text("Learn")
+                    }
+                }
+                .tag(2)
+            Text("Fourth View")
+                .font(.title)
+                .tabItem {
+                    VStack {
+                        Image(systemName: "person.3")
+                        Text("Lead")
+                    }
+                }
+                .tag(3)
         }
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        let userData = UserData()
+        return ContentView().environmentObject(userData)
     }
 }

@@ -16,6 +16,41 @@
 		CE17345E2491418B005291E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE17345C2491418B005291E4 /* LaunchScreen.storyboard */; };
 		CE1734692491418B005291E4 /* journeyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734682491418B005291E4 /* journeyTests.swift */; };
 		CE1734742491418B005291E4 /* journeyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734732491418B005291E4 /* journeyUITests.swift */; };
+		CE17348224916B87005291E4 /* CurveGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348124916B87005291E4 /* CurveGame.swift */; };
+		CE17348424916BCC005291E4 /* StrategyRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348324916BCC005291E4 /* StrategyRow.swift */; };
+		CE17348624916D0D005291E4 /* PathogenDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348524916D0D005291E4 /* PathogenDetailView.swift */; };
+		CE17348824916D31005291E4 /* LocationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348724916D31005291E4 /* LocationDetailView.swift */; };
+		CE17348A24916E18005291E4 /* StrategyDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348924916E18005291E4 /* StrategyDetail.swift */; };
+		CE17348C24916E64005291E4 /* BarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348B24916E64005291E4 /* BarsView.swift */; };
+		CE17348E24916EB2005291E4 /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348D24916EB2005291E4 /* Dashboard.swift */; };
+		CE17349024916EEA005291E4 /* DateLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17348F24916EEA005291E4 /* DateLine.swift */; };
+		CE17349224916F08005291E4 /* Definitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349124916F08005291E4 /* Definitions.swift */; };
+		CE17349424916F25005291E4 /* LegendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349324916F25005291E4 /* LegendView.swift */; };
+		CE17349624916F50005291E4 /* Plotter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349524916F50005291E4 /* Plotter.swift */; };
+		CE17349824916F6C005291E4 /* Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349724916F6C005291E4 /* Stepper.swift */; };
+		CE17349B24916FB9005291E4 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349A24916FB9005291E4 /* ImageView.swift */; };
+		CE17349D24916FE0005291E4 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349C24916FE0005291E4 /* CircleImage.swift */; };
+		CE17349F24916FF2005291E4 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17349E24916FF2005291E4 /* MapView.swift */; };
+		CE1734A224917012005291E4 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734A124917012005291E4 /* Data.swift */; };
+		CE1734A424917041005291E4 /* Strategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734A324917041005291E4 /* Strategy.swift */; };
+		CE1734A624917056005291E4 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734A524917056005291E4 /* UserData.swift */; };
+		CE1734AA249179A7005291E4 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734A9249179A7005291E4 /* Country.swift */; };
+		CE1734C924917F96005291E4 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1734C824917F96005291E4 /* WelcomeView.swift */; };
+		CE37115524918A3A0077F70F /* Pathogen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE37115424918A3A0077F70F /* Pathogen.swift */; };
+		CE37116E249198F50077F70F /* Info.png in Resources */ = {isa = PBXBuildFile; fileRef = CE37115F249198F50077F70F /* Info.png */; };
+		CE37116F249198F50077F70F /* ebola.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371161249198F50077F70F /* ebola.jpg */; };
+		CE371170249198F50077F70F /* corona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371162249198F50077F70F /* corona.jpg */; };
+		CE371171249198F50077F70F /* flu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371163249198F50077F70F /* flu.jpg */; };
+		CE371172249198F50077F70F /* dna3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371164249198F50077F70F /* dna3.jpg */; };
+		CE371173249198F50077F70F /* dna2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371165249198F50077F70F /* dna2.jpg */; };
+		CE371174249198F50077F70F /* dna0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371166249198F50077F70F /* dna0.jpg */; };
+		CE371175249198F50077F70F /* dna1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE371167249198F50077F70F /* dna1.jpg */; };
+		CE371176249198F50077F70F /* countryData.json in Resources */ = {isa = PBXBuildFile; fileRef = CE371168249198F50077F70F /* countryData.json */; };
+		CE371177249198F50077F70F /* strategyData.json in Resources */ = {isa = PBXBuildFile; fileRef = CE371169249198F50077F70F /* strategyData.json */; };
+		CE371178249198F50077F70F /* holland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE37116B249198F50077F70F /* holland.jpg */; };
+		CE371179249198F50077F70F /* usa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE37116C249198F50077F70F /* usa.jpg */; };
+		CE37117A249198F50077F70F /* sweden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE37116D249198F50077F70F /* sweden.jpg */; };
+		CE37117C2491996A0077F70F /* pathogenData.json in Resources */ = {isa = PBXBuildFile; fileRef = CE37117B2491996A0077F70F /* pathogenData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +86,41 @@
 		CE17346F2491418B005291E4 /* journeyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = journeyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1734732491418B005291E4 /* journeyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = journeyUITests.swift; sourceTree = "<group>"; };
 		CE1734752491418B005291E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE17348124916B87005291E4 /* CurveGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveGame.swift; sourceTree = "<group>"; };
+		CE17348324916BCC005291E4 /* StrategyRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrategyRow.swift; sourceTree = "<group>"; };
+		CE17348524916D0D005291E4 /* PathogenDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathogenDetailView.swift; sourceTree = "<group>"; };
+		CE17348724916D31005291E4 /* LocationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailView.swift; sourceTree = "<group>"; };
+		CE17348924916E18005291E4 /* StrategyDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrategyDetail.swift; sourceTree = "<group>"; };
+		CE17348B24916E64005291E4 /* BarsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarsView.swift; sourceTree = "<group>"; };
+		CE17348D24916EB2005291E4 /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		CE17348F24916EEA005291E4 /* DateLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateLine.swift; sourceTree = "<group>"; };
+		CE17349124916F08005291E4 /* Definitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Definitions.swift; sourceTree = "<group>"; };
+		CE17349324916F25005291E4 /* LegendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegendView.swift; sourceTree = "<group>"; };
+		CE17349524916F50005291E4 /* Plotter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plotter.swift; sourceTree = "<group>"; };
+		CE17349724916F6C005291E4 /* Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper.swift; sourceTree = "<group>"; };
+		CE17349A24916FB9005291E4 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		CE17349C24916FE0005291E4 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		CE17349E24916FF2005291E4 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		CE1734A124917012005291E4 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		CE1734A324917041005291E4 /* Strategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strategy.swift; sourceTree = "<group>"; };
+		CE1734A524917056005291E4 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		CE1734A9249179A7005291E4 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		CE1734C824917F96005291E4 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		CE37115424918A3A0077F70F /* Pathogen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pathogen.swift; sourceTree = "<group>"; };
+		CE37115F249198F50077F70F /* Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Info.png; sourceTree = "<group>"; };
+		CE371161249198F50077F70F /* ebola.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ebola.jpg; sourceTree = "<group>"; };
+		CE371162249198F50077F70F /* corona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corona.jpg; sourceTree = "<group>"; };
+		CE371163249198F50077F70F /* flu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flu.jpg; sourceTree = "<group>"; };
+		CE371164249198F50077F70F /* dna3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dna3.jpg; sourceTree = "<group>"; };
+		CE371165249198F50077F70F /* dna2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dna2.jpg; sourceTree = "<group>"; };
+		CE371166249198F50077F70F /* dna0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dna0.jpg; sourceTree = "<group>"; };
+		CE371167249198F50077F70F /* dna1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dna1.jpg; sourceTree = "<group>"; };
+		CE371168249198F50077F70F /* countryData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countryData.json; sourceTree = "<group>"; };
+		CE371169249198F50077F70F /* strategyData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = strategyData.json; sourceTree = "<group>"; };
+		CE37116B249198F50077F70F /* holland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = holland.jpg; sourceTree = "<group>"; };
+		CE37116C249198F50077F70F /* usa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = usa.jpg; sourceTree = "<group>"; };
+		CE37116D249198F50077F70F /* sweden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sweden.jpg; sourceTree = "<group>"; };
+		CE37117B2491996A0077F70F /* pathogenData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pathogenData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +173,23 @@
 			children = (
 				CE17344E24914188005291E4 /* AppDelegate.swift */,
 				CE17345024914188005291E4 /* SceneDelegate.swift */,
+				CE1734A024917004005291E4 /* Models */,
 				CE17345524914188005291E4 /* ContentView.swift */,
+				CE1734C824917F96005291E4 /* WelcomeView.swift */,
+				CE17348524916D0D005291E4 /* PathogenDetailView.swift */,
+				CE17348724916D31005291E4 /* LocationDetailView.swift */,
+				CE17348124916B87005291E4 /* CurveGame.swift */,
+				CE17348324916BCC005291E4 /* StrategyRow.swift */,
+				CE17348924916E18005291E4 /* StrategyDetail.swift */,
+				CE17348B24916E64005291E4 /* BarsView.swift */,
+				CE17348D24916EB2005291E4 /* Dashboard.swift */,
+				CE17348F24916EEA005291E4 /* DateLine.swift */,
+				CE17349124916F08005291E4 /* Definitions.swift */,
+				CE17349324916F25005291E4 /* LegendView.swift */,
+				CE17349524916F50005291E4 /* Plotter.swift */,
+				CE17349724916F6C005291E4 /* Stepper.swift */,
+				CE37115E249198F50077F70F /* Resources */,
+				CE17349924916FA3005291E4 /* Supporting Views */,
 				CE1734572491418B005291E4 /* Assets.xcassets */,
 				CE17345C2491418B005291E4 /* LaunchScreen.storyboard */,
 				CE17345F2491418B005291E4 /* Info.plist */,
@@ -137,6 +223,65 @@
 				CE1734752491418B005291E4 /* Info.plist */,
 			);
 			path = journeyUITests;
+			sourceTree = "<group>";
+		};
+		CE17349924916FA3005291E4 /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				CE17349A24916FB9005291E4 /* ImageView.swift */,
+				CE17349C24916FE0005291E4 /* CircleImage.swift */,
+				CE17349E24916FF2005291E4 /* MapView.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
+		CE1734A024917004005291E4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CE1734A124917012005291E4 /* Data.swift */,
+				CE37115424918A3A0077F70F /* Pathogen.swift */,
+				CE1734A324917041005291E4 /* Strategy.swift */,
+				CE1734A9249179A7005291E4 /* Country.swift */,
+				CE1734A524917056005291E4 /* UserData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CE37115E249198F50077F70F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CE37115F249198F50077F70F /* Info.png */,
+				CE371160249198F50077F70F /* PathogenImages */,
+				CE371164249198F50077F70F /* dna3.jpg */,
+				CE371165249198F50077F70F /* dna2.jpg */,
+				CE371166249198F50077F70F /* dna0.jpg */,
+				CE371167249198F50077F70F /* dna1.jpg */,
+				CE37117B2491996A0077F70F /* pathogenData.json */,
+				CE371168249198F50077F70F /* countryData.json */,
+				CE371169249198F50077F70F /* strategyData.json */,
+				CE37116A249198F50077F70F /* CountryImages */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CE371160249198F50077F70F /* PathogenImages */ = {
+			isa = PBXGroup;
+			children = (
+				CE371161249198F50077F70F /* ebola.jpg */,
+				CE371162249198F50077F70F /* corona.jpg */,
+				CE371163249198F50077F70F /* flu.jpg */,
+			);
+			path = PathogenImages;
+			sourceTree = "<group>";
+		};
+		CE37116A249198F50077F70F /* CountryImages */ = {
+			isa = PBXGroup;
+			children = (
+				CE37116B249198F50077F70F /* holland.jpg */,
+				CE37116C249198F50077F70F /* usa.jpg */,
+				CE37116D249198F50077F70F /* sweden.jpg */,
+			);
+			path = CountryImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +388,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE371178249198F50077F70F /* holland.jpg in Resources */,
+				CE371171249198F50077F70F /* flu.jpg in Resources */,
+				CE37116F249198F50077F70F /* ebola.jpg in Resources */,
 				CE17345E2491418B005291E4 /* LaunchScreen.storyboard in Resources */,
 				CE17345B2491418B005291E4 /* Preview Assets.xcassets in Resources */,
+				CE37117C2491996A0077F70F /* pathogenData.json in Resources */,
+				CE371173249198F50077F70F /* dna2.jpg in Resources */,
+				CE371179249198F50077F70F /* usa.jpg in Resources */,
+				CE371175249198F50077F70F /* dna1.jpg in Resources */,
+				CE371176249198F50077F70F /* countryData.json in Resources */,
+				CE371170249198F50077F70F /* corona.jpg in Resources */,
+				CE371174249198F50077F70F /* dna0.jpg in Resources */,
+				CE371177249198F50077F70F /* strategyData.json in Resources */,
+				CE371172249198F50077F70F /* dna3.jpg in Resources */,
 				CE1734582491418B005291E4 /* Assets.xcassets in Resources */,
+				CE37116E249198F50077F70F /* Info.png in Resources */,
+				CE37117A249198F50077F70F /* sweden.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,10 +429,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE17349224916F08005291E4 /* Definitions.swift in Sources */,
+				CE17348624916D0D005291E4 /* PathogenDetailView.swift in Sources */,
 				CE17344F24914188005291E4 /* AppDelegate.swift in Sources */,
+				CE17349B24916FB9005291E4 /* ImageView.swift in Sources */,
+				CE17348E24916EB2005291E4 /* Dashboard.swift in Sources */,
+				CE17349D24916FE0005291E4 /* CircleImage.swift in Sources */,
+				CE17348824916D31005291E4 /* LocationDetailView.swift in Sources */,
+				CE17349424916F25005291E4 /* LegendView.swift in Sources */,
 				CE17345424914188005291E4 /* journey.xcdatamodeld in Sources */,
+				CE1734AA249179A7005291E4 /* Country.swift in Sources */,
+				CE37115524918A3A0077F70F /* Pathogen.swift in Sources */,
+				CE17348A24916E18005291E4 /* StrategyDetail.swift in Sources */,
+				CE17348224916B87005291E4 /* CurveGame.swift in Sources */,
+				CE1734A224917012005291E4 /* Data.swift in Sources */,
+				CE17348C24916E64005291E4 /* BarsView.swift in Sources */,
+				CE17348424916BCC005291E4 /* StrategyRow.swift in Sources */,
+				CE17349824916F6C005291E4 /* Stepper.swift in Sources */,
 				CE17345624914188005291E4 /* ContentView.swift in Sources */,
+				CE1734A624917056005291E4 /* UserData.swift in Sources */,
+				CE17349F24916FF2005291E4 /* MapView.swift in Sources */,
+				CE1734C924917F96005291E4 /* WelcomeView.swift in Sources */,
+				CE1734A424917041005291E4 /* Strategy.swift in Sources */,
 				CE17345124914188005291E4 /* SceneDelegate.swift in Sources */,
+				CE17349624916F50005291E4 /* Plotter.swift in Sources */,
+				CE17349024916EEA005291E4 /* DateLine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,17 +618,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"journey/Preview Content\"";
 				DEVELOPMENT_TEAM = DM629USU6J;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = journey/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = twh.journey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -458,17 +641,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"journey/Preview Content\"";
 				DEVELOPMENT_TEAM = DM629USU6J;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = journey/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = twh.journey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

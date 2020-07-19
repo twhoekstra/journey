@@ -1,0 +1,54 @@
+[
+    {
+        "name": "None",
+        "id": 1000,
+        "coordinates": {
+            "longitude": -77.050176,
+            "latitude": 38.889394
+        },
+        "imageName": "",
+        "description": "",
+        "density": 0,
+        "authority": "",
+        "leadership": ""
+    },
+    {
+        "name": "USA",
+        "id": 1001,
+        "coordinates": {
+            "longitude": -77.050176,
+            "latitude": 38.889394
+        },
+        "imageName": "usa",
+        "description": "The U.S. is a global leader in medical innovation. Since 1966, more Americans have received the Nobel Prize in Medicine than the rest of the world combined. The U.S. health-care system far outspends any other nation, measured both in per capita spending and as percentage of GDP. Health-care coverage in the United States is a combination of public and private efforts and is not universal. In 2017, 12.2% of the population did not carry health insurance. The subject of uninsured and underinsured Americans is a major political issue. Federal legislation, passed in early 2010, roughly halved the uninsured share of the population, though the bill and its ultimate effect are issues of controversy. In 2020 the United States became affected by the COVID-19 pandemic, with the first case reported on January 20, 2020. The United States became the world's most affected country, with more than 85,500 confirmed cases, on March 27, 2020, when it overtook China and Italy.",
+        "density": 33.6,
+        "authority": "CDC",
+        "leadership": "Anthony Fauci"
+    },
+    {
+        "name": "The Netherlands",
+        "id": 1002,
+        "coordinates": {
+            "longitude": 4.351192,
+            "latitude": 52.014094
+        },
+        "imageName": "holland",
+        "description": "Healthcare in the Netherlands can be divided in several ways: three echelons, in somatic and mental health care and in 'cure' (short term) and 'care' (long term). Home doctors (huisartsen, comparable to general practitioners) form the largest part of the first echelon. Being referenced by a member of the first echelon is mandatory for access to the second and third echelon. The health care system is in comparison to other Western countries quite effective but not the most cost-effective. Healthcare in the Netherlands is financed by a dual system that came into effect in January 2006. Long-term treatments, especially those that involve semi-permanent hospitalisation, and also disability costs such as wheelchairs, are covered by a state-controlled mandatory insurance. This is laid down in the Algemene Wet Bijzondere Ziektekosten (General Law on Exceptional Healthcare Costs) which first came into effect in 1968. In 2009 this insurance covered 27% of all health care expenses. For all regular (short-term) medical treatment, there is a system of obligatory health insurance, with private health insurance companies. These insurance companies are obliged to provide a package with a defined set of insured treatments. This insurance covers 41% of all health care expenses.",
+        "density": 421,
+        "authority": "Outbreak Management Team",
+        "leadership": "Jaap van Dissel"
+    },
+    {
+        "name": "Sweden",
+        "id": 1003,
+        "coordinates": {
+            "longitude": 18.072160,
+            "latitude": 59.326948
+        },
+        "imageName": "sweden",
+        "description": "Healthcare in Sweden is similar in quality to other developed nations. Sweden ranks in the top five countries with respect to low infant mortality. It also ranks high in life expectancy and in safe drinking water. A person seeking care first contacts a clinic for a doctor's appointment, and may then be referred to a specialist by the clinic physician, who may in turn recommend either in-patient or out-patient treatment, or an elective care option. The health care is governed by the 21 landsting of Sweden and is mainly funded by taxes, with nominal fees for patients.",
+        "density": 23,
+        "authority": "Public Health Agency of Sweden",
+        "leadership": "Anders Tegnell"
+    }
+]
