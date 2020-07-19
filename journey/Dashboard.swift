@@ -2,7 +2,7 @@
 //  Dashboard.swift
 //  journey
 //
-//  Created by Manon Hoekstra on 10/06/2020.
+//  Created by Thijn Hoekstra on 10/06/2020.
 //  Copyright © 2020 Thijn Hoekstra. All rights reserved.
 //
 
